@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-14T05:37:47.780Z",
+      "notes": "yes",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "1.4282226562500002"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Lagueruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-18T06:20:00.572Z",
+      "notes": "zuru\n",
+      "position": {
+        "lat": "41.054501963290505",
+        "lng": "-1.2084960937500002"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Tomdibuloq",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2023-12-18T06:20:25.679Z",
+      "notes": "maza\n",
+      "position": {
+        "lat": "41.44272637767212",
+        "lng": "64.42382812500001"
+      },
+      "id": 98443211
+    }
+  ]
+}
